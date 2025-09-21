@@ -1,0 +1,13 @@
+Mobile android:
+Project settings -> Product name -> RoentgenAR
+Project settings -> Target API level -> 34
+Project settings -> XR Plugin management -> Google ARCore: Enabled
+Project settings -> XR Plugin management -> OpenXR: Disabled
+Project settings -> Player -> Scriping define symbols: USE_INPUT_SYSTEM_POSE_CONTROL;USE_STICK_CONTROL_THUMBSTICKS
+
+VR android:
+Project settings -> Product name -> X_RAY_VR_AR
+Project settings -> Target API level -> 32
+Project settings -> XR Plugin management -> Google ARCore: Disabled
+Project settings -> XR Plugin management -> OpenXR: Enabled
+Project settings -> Player -> Scriping define symbols: USE_INPUT_SYSTEM_POSE_CONTROL;USE_STICK_CONTROL_THUMBSTICKS;VR

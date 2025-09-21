@@ -1,0 +1,43 @@
+PRIVACY POLICY
+
+Effective Date: February 7th, 2025
+
+Thank you for using RoentgenAR, developed by the Metapilot Factory project and implemented by Oulu UAS. This document describes the types of data we collect and the reasons for collecting it.
+
+Data Collection
+We do not collect or store any personal information on our servers.
+
+Analytics
+We use Google Analytics (Firebase) to gather essential business information using coarse location data and Device ID. This helps us understand:
+
+Retention: How many times has a random ID started our application?
+
+Playtime: How long did any random ID stay in our application?
+
+Progression: How far did any random ID progress in our application?
+
+We use this information solely to improve the TanssiAR experience.
+
+No Personal Targeting
+We do not use your location or personal information to target offers or advertisements. Our monetization and quality offers are based solely on your actions within the application.
+
+Third-Party Plugins
+At this point, we only use Firebase and do not incorporate any other third-party plugins, including ad providers.
+
+Personal Information
+Please do not provide us with any personal information. Maintain your privacy within the application by not sharing sensitive information.
+
+Contact Us
+If you have any questions about your privacy, you can contact us by email at mika.maatta@oamk.fi
+
+Location
+We are based in Oulu UAS, Oulun Ammattikorkeakoulu Oy
+
+Address:
+
+Yliopistokatu 9 90570 Oulu. Mailing address PL 222, 90101 Oulu
+
+Updates to this Policy
+This document will be updated each time we update TanssiAR or if any additional privacy-related matters arise.
+
+This policy ensures transparency and respect for user privacy while using RoentgenAR.

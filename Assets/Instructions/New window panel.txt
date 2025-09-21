@@ -1,0 +1,9 @@
+1. Create new enum value to WindowPanel enum in Enums.cs
+2. Duplicate default window panel from Assets\Prefabs\UI or any other panel that contains useful elements.
+3. Rename new duplicate panel to same name that is the new enum (not forced, but for clarity)
+4. Duplicate DefaultWindow.cs from Assets\Scripts\UI\WindowPanels and rename the file with new window name.
+5. Change class name to new window name from the duplicated (in step 4.) script (removes compiling error)
+6. Open duplicated (in step 3.) window panel prefab in editor, replace DefaultWindow script component with newly created script. Build the object inside the background.
+7. Set Window enum value in inspector to a new enum created in step 1.
+8. Open window manager prefab from Assets\Prefabs in editor, and add new window panel prefab to Panel prefabs array.
+9. Add 'Base.Init()' inside the public override void Init in the new script created in step 4.

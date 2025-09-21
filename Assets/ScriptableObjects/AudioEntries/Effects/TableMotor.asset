@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9336dd4dd3fb5d468fd9b89aa1d6598, type: 3}
+  m_Name: TableMotor
+  m_EditorClassIdentifier: 
+  id: 1012
+  clip: {fileID: 8300000, guid: 27318114d337703498fdb8e96feacd68, type: 3}
+  clipLoop: {fileID: 8300000, guid: cdf8d61fdac8bb94a9c4122090f94b5a, type: 3}
+  clipEnd: {fileID: 8300000, guid: 572011ac3dfaa12428adf4ac204b19ec, type: 3}
+  volume: 1

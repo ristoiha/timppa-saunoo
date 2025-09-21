@@ -1,0 +1,27 @@
+Duplicate an existing scene:
+- Go to Assets/Scenes folder in Project view.
+- Select Museum01 scene by left clicking it.
+- Press Ctrl + D to duplicate the scene.
+- Give the duplicate a new recognizable name ("Museum02" for example) by renaming it (Select it, and left click it again).
+
+Adding an enum for the scene:
+- Open Assets/Scripts/Managers/SceneLoader.cs script by double clicking it in the Project view.
+- Add the name of the newly duplicated scene to SceneID enum. If your scene was named Museum02, then you would add a new line "Museum02," inside the brackets.
+- Save SceneLoader.cs after changes.
+
+Adding the new scene to a build
+- Navigate to scenes folder in project view (Assets/Scenes)
+- Open build settings from File -> Build settings...
+- Drag the new scene from the project view to build settings unde "Scenes In Build".
+- Check the checkmark in "LoadingScene", "MainMenu", and your new Scene ("Museum02" for example) and remove checkmark from others.
+
+Configure play button to start your scene
+- Navigate to Assets/Prefabs/UI/WindowPanels in Project view and double click MainMenu.prefab to open it in prefab edit mode.
+- In hierarchy view, navigate to MainMenu/PanelAnimator/Background/Menubuttons/PlayButton and left click it, to show its properties in Inspector view.
+- Scroll down in inspector until you see a "Button Messenger (script)" component.
+- Expand "Button actions" list inside the Button Messenger component in inspector view
+- There should be a list item that has "Command" "LoadScene" and "Museum01". Change Museum01 to your newly added scene from the drop-down menu.
+- End prefab edit mode by clicking the < arrow in the hierarchy view on the left side of "MainMenu".
+
+
+After these steps, you should have a new scene created and properly configured to play in the build.

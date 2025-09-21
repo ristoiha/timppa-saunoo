@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9336dd4dd3fb5d468fd9b89aa1d6598, type: 3}
+  m_Name: AutoMoveXRayTube
+  m_EditorClassIdentifier: 
+  id: 1001
+  clip: {fileID: 8300000, guid: 94ad6c950a3ffbc4ebe077b83f7de936, type: 3}
+  clipLoop: {fileID: 8300000, guid: 22828ab564b76784aa47013d84d9e446, type: 3}
+  clipEnd: {fileID: 8300000, guid: 2b9df6f16c093e243893103acbc2077e, type: 3}
+  volume: 1

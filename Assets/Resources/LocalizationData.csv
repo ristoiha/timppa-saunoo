@@ -1,0 +1,135 @@
+LanguageName	English	Suomi
+NameHasInvalidCharacters	Name has invalid characters.	Nimessä on kiellettyjä merkkejä.
+NameOK	Name ok	Nimi ok
+SelectProfile	Select profile	Valitse profiili
+CreateProfile	Create profile	Luo profiili
+Options	Options	Asetukset
+Create	Create	Luo
+Select	Select	Valitse
+Accept	Accept	Hyväksy
+Loading	Loading...	Lataa...
+EnterName	Enter name	Kirjoita nimi
+		
+		
+Paused	Paused	Tauko
+Play	Play	Pelaa
+Continue	Continue	Jatka
+BackToMain	Back to main menu	Takaisin päävalikkoon
+ExitGame	Exit game	Poistu pelistä
+Password	Password	Salasana
+CreateLobby	Create Lobby	Luo Aula
+LobbyName	Lobby Name	Aulan nimi
+EmailAddress	Email Adress	Sähköpostiosoite
+LobbyPassword	Lobby Password	Aulan salasana
+JoinLobby	Join Lobby	Liity Aulaan
+CreateNew	Create new	Luo uusi
+RefreshLobbyList	Refresh lobby list	Päivitä pelihuoneet
+LobbyInfo	Lobby info	Pelihuone info
+SendFeedback	Send feedback	Lähetä palautetta
+SwitchProfile	Switch profile	Vaihda profiilia
+Skip	Press any key to skip	Ohita painamalla mitä tahansa nappia pohjassa
+WrongPassword	Wrong password	Väärä salasana
+MouseSensitivity	Mouse sensitivity	Hiiren herkkyys
+FOV	Field of view	Näkökentän leveys
+		
+		
+Load	Load	Lataa
+Back	Back	Takaisin
+ResetData	Reset data	Resetoi pelaajadata
+Online	Multiplayer	Moninpeli
+Offline	Singleplayer	Yksinpeli
+LobbyRequiresPassword	Lobby requires a password:	Pelihuone tarvitsee salasanan:
+Tutorial	Tutorial	Tutoriaali
+Complete	Complete	Suoritettu
+SelectDifficulty	Select difficulty<br><br>Learn procedures in training mode. Test your knowledge on normal.	Valitse vaikeustaso<br><br>Opettele toimenpiteitä harjoittelussa. Testaa tietämystäsi normaalilla.
+Yes	Yes	Kyllä
+No	No	Ei
+Credits	Credits	Tekijät
+PrivacyPolicy	Privacy policy	Tietosuojakäytäntö
+Welcome	Welcome	Tervetuloa
+Seconds	s	s
+Minutes	m	m
+Hours	h	h
+		
+NameAlreadyExists	Name already exists	Nimi on jo olemassa
+SendToEmail	Send to email	Lähetä sähköpostiin
+Send	Send	Lähetä
+Save	Save	Tallenna
+WriteYourEmailInfo	Write your email address to send a copy for yourself (optional)	Kirjoita sähköpostiosoitteesi lähettääksesi itsellesi kopion (valinnainen)
+Publish	Publish	Julkaise
+InfoText_ProfileSelection	Select or create your profile where you can save your progress. You can also choose if you want to play online or offline.	Valitse tai luo itsellesi profiili johon voit tallentaa edistymisesi. Voit myös valita pelaatko moninpelinä vai yksinpelinä. Moninpeli vaatii yhteisen peliaulan.
+InfoText_ProfileCreation	Create a profile to save your progress. To play online you need a gamelobby.	Luo profiili jotta voit tallentaa edistymisesi.
+InfoText_LobbySelection	Choose or create a lobby to play with your friends	Valitse tai luo peliaula pelataksesi kavereidesi kanssa.
+InfoText_LobbyCreation	To create a lobby you need to give it a name so that people can find it Use your own email to host it. Password is optional.	Luodaksesi peliaulan anna aulallesi nimi jotta muut pelaajat löytävät sen. Käytä sähköpostiosoitettasi luodaksesi aula. Salasanaa ei ole pakko asettaa.
+InfoText_SendEmail	Send the story to you email and publish it so other players can read it.	Lähetä tarina sähköpostiisi ja julkaise se, jotta muut pelaajat voivat käydä lukemassa sen. Julkaisun jälkeen tarinat ilmestyvät puutarhaan.
+		
+TaskComplete	Task complete	Tehtävä suoritettu
+Reset	Reset	Resetoi
+Cancel	Cancel	Peruuta
+ResetInfo	Reset player data?	Poista pelaajatiedot?
+Ok	Ok	Ok
+LobbySelectionRequired	No lobby selected<br><br>If you want to play in singleplayer mode, go back to profile selection.	Pelihuone valitsematta<br><br>Jos haluat pelata yksinpelimoodissa, niin palaa profiilivalintaan.
+		
+GameOver	Game over	Peli ohi
+		
+NameTooShort	Name too short	Nimi on liian lyhyt
+SkipTask	Skip task	Ohita tehtävä
+Players	Players:	Pelaajia:
+		
+Profile	Profile	Profiili
+		
+Locale_fin	Finnish	Suomi
+Locale_eng	English	Englanti
+		
+Option_SFXVolume	Effects Volume	Äänten voimakkuus
+Option_MusicVolume	Music Volume	Musiikin voimakkuus
+Option_MovementStyle	Movement style	Liikkumityyli
+Option_TurningStyle	Turning style	Kääntyminen
+Option_MasterVolume	Master volume	Master voimakkuus
+Option_VOVolume	Voiceover volume	Kertojaäänen voimakkuus
+		
+TutorialWelcomeTaskVR	Welcome to tutorial. Look at your wrist to see the task list.	Tervetuloa tutoriaaliin. Katso rannettasi nähdäksesi tehtävälistan.
+CreditsContent	<color=#48CFCB><b>Images:</b></color><br><br>primary-cystic-arthrosis-of-the-hip.png<br>Case courtesy of Matt Skalski, Radiopaedia.org, rID: 31640<br><br>normal-chest-x-ray-1.png<br>Case courtesy of Henry Knipe, Radiopaedia.org, rID: 31525<br><br>chondrocalcinosis-hand-and-wrist.jpg<br>Case courtesy of Dalia Ibrahim, Radiopaedia.org, rID: 27359<br><br><br><color=#48CFCB><b>Sounds:</b></color><br><br>Servo_3_Panera.wav by sinmente0987<br>https://freesound.org/s/160719/<br>License: Creative Commons 0<br><br>Keyboard, computer, mechanical, typing, individual keys, press, button, click, tap, Two key presses_96Khz_Mono_ZoomH4n_NT5-002.wav by MattRuthSound<br>https://freesound.org/s/561670/<br>License: Attribution 4.0<br><br>Button Click by eyenorth<br>https://freesound.org/s/412050/<br>License: Attribution NonCommercial 4.0<br><br>WavesAudioDoorOpenSFX by MAVOM22<br>https://freesound.org/s/740271/<br>License: Creative Commons 0<br><br>WavesAudioDoorClutchSFX by MAVOM22<br>https://freesound.org/s/740270/<br>License: Creative Commons 0<br><br>keyfob beeps.wav by KeyKrusher<br>https://freesound.org/s/154955/<br>License: Attribution 4.0<br><br>mouse_click.wav by MathiasR<br>https://freesound.org/s/172179/<br>License: Attribution NonCommercial 4.0<br><br>success 1 by Leszek_Szary<br>https://freesound.org/s/171671/<br>License: Creative Commons 0<br><br>3 up 2 by Leszek_Szary<br>https://freesound.org/s/171579/<br>License: Creative Commons 0<br><br>scale f6 by Leszek_Szary<br>https://freesound.org/s/171645/<br>License: Creative Commons 0<br><br>System Notification by Universfield<br>https://freesound.org/s/730122/<br>License: Attribution 4.0<br><br>Failure/wrong action.wav by GabrielAraujo<br>https://freesound.org/s/242503/<br>License: Creative Commons 0<br><br>Power failure.wav by ATG65<br>https://freesound.org/s/468414/<br>License: Creative Commons 0<br><br>Breathe In Breathe Out.mp3 by TheDragonsSpark<br>https://freesound.org/s/690299/<br>License: Creative Commons 0<br><br>Computer Hum Noise by qubodup<br>https://freesound.org/s/211994/<br>License: Creative Commons 0<br><br>noisy-computer-hum.AIF by alienistcog<br>https://freesound.org/s/124017/<br>License: Creative Commons 0<br><br>Motors_Linear_Actuator_Table_Lifter by SoundsofTheMachine<br>https://freesound.org/s/754342/<br>License: Creative Commons 0	<color=#48CFCB><b>Kuvat:</b></color><br><br>primary-cystic-arthrosis-of-the-hip.png<br>Case courtesy of Matt Skalski, Radiopaedia.org, rID: 31640<br><br>normal-chest-x-ray-1.png<br>Case courtesy of Henry Knipe, Radiopaedia.org, rID: 31525<br><br>chondrocalcinosis-hand-and-wrist.jpg<br>Case courtesy of Dalia Ibrahim, Radiopaedia.org, rID: 27359<br><br><br><color=#48CFCB><b>Äänet:</b></color><br><br>Servo_3_Panera.wav by sinmente0987<br>https://freesound.org/s/160719/<br>License: Creative Commons 0<br><br>Keyboard, computer, mechanical, typing, individual keys, press, button, click, tap, Two key presses_96Khz_Mono_ZoomH4n_NT5-002.wav by MattRuthSound<br>https://freesound.org/s/561670/<br>License: Attribution 4.0<br><br>Button Click by eyenorth<br>https://freesound.org/s/412050/<br>License: Attribution NonCommercial 4.0<br><br>WavesAudioDoorOpenSFX by MAVOM22<br>https://freesound.org/s/740271/<br>License: Creative Commons 0<br><br>WavesAudioDoorClutchSFX by MAVOM22<br>https://freesound.org/s/740270/<br>License: Creative Commons 0<br><br>keyfob beeps.wav by KeyKrusher<br>https://freesound.org/s/154955/<br>License: Attribution 4.0<br><br>mouse_click.wav by MathiasR<br>https://freesound.org/s/172179/<br>License: Attribution NonCommercial 4.0<br><br>success 1 by Leszek_Szary<br>https://freesound.org/s/171671/<br>License: Creative Commons 0<br><br>3 up 2 by Leszek_Szary<br>https://freesound.org/s/171579/<br>License: Creative Commons 0<br><br>scale f6 by Leszek_Szary<br>https://freesound.org/s/171645/<br>License: Creative Commons 0<br><br>System Notification by Universfield<br>https://freesound.org/s/730122/<br>License: Attribution 4.0<br><br>Failure/wrong action.wav by GabrielAraujo<br>https://freesound.org/s/242503/<br>License: Creative Commons 0<br><br>Power failure.wav by ATG65<br>https://freesound.org/s/468414/<br>License: Creative Commons 0<br><br>Breathe In Breathe Out.mp3 by TheDragonsSpark<br>https://freesound.org/s/690299/<br>License: Creative Commons 0<br><br>Computer Hum Noise by qubodup<br>https://freesound.org/s/211994/<br>License: Creative Commons 0<br><br>noisy-computer-hum.AIF by alienistcog<br>https://freesound.org/s/124017/<br>License: Creative Commons 0<br><br>Motors_Linear_Actuator_Table_Lifter by SoundsofTheMachine<br>https://freesound.org/s/754342/<br>License: Creative Commons 0
+TutorialWelcomeTask	Welcome to tutorial. Welcome to tutorial. You can see your current task on the right side of the screen.	Tervetuloa tutoriaaliin. Näet nykyisen tehtäväsi ruudun oikealla laidalla.
+IntroInstructionsVR	Welcome. Game is intended to be played on hands only. Controllers are only partially supported.<br><br>Put down your controllers.	Tervetuloa. Peliä on tarkoitus ohjata ilman ohjaimia. Ohjaimet ovat vain osittain tuettuja.<br><br>Laske ohjaimet pois käsistäsi.
+		
+TaskGroup_Tutorial	Tutorial	Tutoriaali
+Task_LookAtWrist	Look at your wrist	Katso rannettasi
+Task_LookAtExtraInformation	See task related extra information by hovering info button with index finger	Lue tehtävään liittyvää lisäinformaatiota pitämällä etusormea info-napin kohdalla
+Task_CloseExtraInfo	Close extra information panel	Sulje lisäinformaatiopaneeli
+Task_ThumbUpGestureLeftHand	Make a thumb up gesture with your left hand	Tee peukalo ylöspäin ele vasemmalla kädellä
+Task_ThumbUpGestureRightHand	Make a thumb up gesture with your right hand	Tee peukalo ylöspäin ele oikealla kädellä
+Task_WalkForward	Walk forward by pressing thumb forward while making a thumb up gesture with your left hand	Kävele eteen päin painamalla peukaloa eteen päin samalla kun pidät peukalo ylöspäin eleen vasemmalla kädellä
+Task_WalkBackward	Walk backward by pulling thumb backwards while making a thumb up gesture with your left hand	Kävele taakse päin vetämällä peukaloa taakse päin samalla kun pidät peukalo ylöspäin eleen vasemmalla kädellä
+Task_WalkLeft	Walk sideways to the left by rotating thumb to the left while making a thumb up gesture with your left hand	Kävele vasemmalle päin kääntämällä peukaloa vasemmalle päin samalla kun pidät peukalo ylöspäin eleen vasemmalla kädellä
+Task_WalkRight	Walk sideways to the right by rotating thumb to the right while making a thumb up gesture with your left hand	Kävele oikealle päin kääntämällä peukaloa oikealle päin samalla kun pidät peukalo ylöspäin eleen vasemmalla kädellä
+Task_RotateLeft	Rotate view to the left by rotating thumb to the left while making a thumb up gesture with your right hand	Käännä katsetta vasemmalle päin kääntämällä peukaloa vasemmalle päin samalla kun pidät peukalo ylöspäin eleen oikealla kädellä
+Task_RotateRight	Rotate view to the right by rotating thumb to the right while making a thumb up gesture with your right hand	Käännä katsetta oikealle päin kääntämällä peukaloa oikealle päin samalla kun pidät peukalo ylöspäin eleen oikealla kädellä
+Task_PinchMove	Pinch move by pinching thumb and index fingers together while your palm is pointing downwards and moving your hand	"Liiku ""raahautumalla"" laittamalla etusormi ja peukalo yhteen sekä pitämällä kämmen alas päin ja liikuttamalla kättä"
+Task_LookAtExtraInformationMobile	See task related extra information by clicking info button on top right corner	Lue tehtävään liittyvää lisäinformaatiota pitämällä painamalla info nappia oikeasta yläkulmasta
+Task_WalkForward_Mobile	Walk forward by clicking left side of the screen and drag upwards while still clicking	Kävele eteen päin painamalla vasenta puolta ruudusta ja raahaamalla ylös päin edelleen painaen
+Task_WalkBackward_Mobile	Walk backward by clicking left side of the screen and drag downwards while still clicking	Kävele taakse päin painamalla vasenta puolta ruudusta ja raahaamalla alas päin edelleen painaen
+Task_WalkLeft_Mobile	Walk sideways to the left by clicking left side of the screen and drag leftwards while still clicking	Kävele vasemmalle päin painamalla vasenta puolta ruudusta ja raahaamalla vasemmalle päin edelleen painaen
+Task_WalkRight_Mobile	Walk sideways to the right by clicking left side of the screen and drag rightwards while still clicking	Kävele oikealle päin painamalla vasenta puolta ruudusta ja raahaamalla oikealle päin edelleen painaen
+Task_RotateLeft_Mobile	Rotate view to the left by clicking right side of the screen and drag leftwards while still clicking	Käännä katsetta vasemmalle päin painamalle oikeaa puolta ruudusta ja raahaamalla vasemmalle päin edelleen painaen
+Task_RotateRight_Mobile	Rotate view to the right by clicking right side of the screen and drag rightwards while still clicking	Käännä katsetta oikealle päin painamalle oikeaa puolta ruudusta ja raahaamalla oikealle päin edelleen painaen
+		
+MovementStyle_TeleportAndDrag	Gesture, Teleport, and Drag	Ele, Teleportti, ja Raahaus
+MovementStyle_NoDrag	Gesture and Teleport	Ele ja Teleportti
+MovementStyle_NoTeleport	Gesture and Drag	Ele ja Raahaus
+MovementStyle_GestureOnly	Gesture only	Vain ele
+		
+TurningStyle_Snap	Snap	Astettain
+TurningStyle_Continuous	Continuous	Jatkuva
+		
+SelectLiftStartTarget	Select lift start target	Valitse noston lähtökohde
+LiftTarget_Floor	Floor	Lattia
+LiftTarget_Bed	Bed	Sänky
+LiftTarget_Wheelchair	Wheelchair	Rullatuoli
+		
+SelectLift	Select lift	Valitse nosto
+Lift_FloorToStanding	From floor to standing	Lattialta seisomaan
+Lift_BedToStanding	From bed to standing	Sängystä seisomaan
+Lift_WheelchairToStanding	From wheelchair to standing	Rullatuolista seisomaan
+
+ArtInfo_Kissakuva	Info about the cat image	Tietoa kissakuvasta
